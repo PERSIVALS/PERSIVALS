@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PERSIVALS
+- 👋 Hi, I’m @PERSIVALS or u can call me Dean 
 - 👀 I’m interested in Backend and FullStack
 - 🌱 I’m currently learning Phyoton, PHP, Laravel,
 - 💞️ I’m looking to collaborate, on Everyone does Who Interested Colaborate with me.
